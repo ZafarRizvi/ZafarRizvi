@@ -1,47 +1,24 @@
 ### Hey there, I'm  ZafarRizvi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+<p>Will update this more latter</p>
 
 <div align="center">
 <p align="center">Let's connect!</p>
-<a href="https://www.twitter.com/mhmzdev/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
 
-<a href="https://www.instagram.com/mhmzdev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/mhmzdev/">
+<a href="https://www.linkedin.com/in/syed-muhammad-zafar-rizvi-3a94a1124/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://mhmzdev.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
 
-<a href="https://www.facebook.com/mhmzdev/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="https://stackoverflow.com/users/12297382/hamza">
+<a href="https://stackoverflow.com/users/12672819/syed-muhammad-zafar-rizvi">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 </div>
 
 <br>
 
-<!-- <div align="center">
-<p align="center">Nominate me as GitHub Star ⭐</p>
-
-<a href="https://stars.github.com/nominate/">
-    <img src="https://img.shields.io/badge/GitHub-100000?&style=for-the-badge&logo=GitHub&logoColor=white&color=fa3667" />
-</a>
-
-</div> -->
-
-
 ### A Student, Developer & Writer
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/ZafarRizvi/coverimg/blob/main/code.gif" width="500" height="320" />
 
 #### Talking about my personal stuff:
 
