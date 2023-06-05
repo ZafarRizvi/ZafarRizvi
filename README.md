@@ -1,5 +1,4 @@
 ### Hey there, I'm  ZafarRizvi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-<p>Will update this more latter</p>
 
 <div align="center">
 <p align="center">Let's connect!</p>
@@ -7,7 +6,10 @@
 <a href="https://www.linkedin.com/in/syed-muhammad-zafar-rizvi-3a94a1124/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+    
+<a href="mailto:smzafar.rizwi@gmail.com">
+      <img src="https://img.shields.io/static/v1message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</a>
 
 <a href="https://stackoverflow.com/users/12672819/syed-muhammad-zafar-rizvi">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
