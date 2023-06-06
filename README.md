@@ -6,10 +6,6 @@
 <a href="https://www.linkedin.com/in/syed-muhammad-zafar-rizvi-3a94a1124/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-    
-<a href="mailto:smzafar.rizwi@gmail.com">
-      <img src="https://img.shields.io/static/v1message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</a>
 
 <a href="https://stackoverflow.com/users/12672819/syed-muhammad-zafar-rizvi">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
@@ -44,16 +40,6 @@
 - [Folio — Responsive Portfolio using Flutter 2.0](https://itnext.io/folio-responsive-portfolio-using-flutter-2-0-86ae3e6cce4f?source=rss-198dec8dcf4a------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
-<!-- ### Languages & Tools
-
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> -->
-
 <div align="center">
 <p align="center">🛠 Tools & Technology</p>
 
@@ -72,22 +58,13 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
+[![Zafar's github stats](https://github-readme-stats.vercel.app/api?username=ZafarRizvi&theme=gotham)](https://github.com/ZafarRizvi/github-readme-stats)
 
 
 
 
 Open Source Contributor from <b>Pakistan<b> 💚 
 
-![](https://visitor-badge.glitch.me/badge?page_id=mhmzdev.mhmzdev)
-
-
-[quran]: https://github.com/mhmzdev/The_Holy_Quran_App
-[dsccui]: https://dsc.community.dev/comsats-university-islamabad/
-[flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
-[profile]: https://mhmz.dev
-[medium]: https://mhmzdev.medium.com/
-[dribbble]: https://dribbble.com/mhmzdev
 <!--
 **ZafarRizvi/ZafarRizvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
