@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zafar Rizvi</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">, I'm Zafar Rizvi</h1>
 <h3>Software Engineer with a passion for open source.</h3>
 <h3>Front-end developer with a knack for design.</h3>
 <h3>Full-stack developer with a thirst for knowledge.</h3>
