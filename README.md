@@ -4,6 +4,7 @@
 <h3>Full-stack developer with a thirst for knowledge.</h3>
 <h3>Web & Mobile App developer with a passion for building beautiful and functional Apps.</h3>
 <h3>Cybersecurity engineer with a mission to keep the world safe.</h3>
+<p>.</p>
 
 
 - 🔭 I’m currently working on [Web Development](https://sub.commo.fi/)
