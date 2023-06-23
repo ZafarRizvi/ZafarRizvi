@@ -5,7 +5,6 @@
 <h3>Web & Mobile App developer with a passion for building beautiful and functional Apps.</h3>
 <h3>Cybersecurity engineer with a mission to keep the world safe.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zafarrizvi&label=Profile%20views&color=0e75b6&style=flat" alt="zafarrizvi" /> </p>
 
 - 🔭 I’m currently working on [Web Development](https://sub.commo.fi/)
 
@@ -16,6 +15,7 @@
 - 💬 How to reach me **+92 333 1930807**
 
 - 📫 Mailing Address **smzafar.rizwi@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zafarrizvi&label=Profile%20views&color=0e75b6&style=flat" alt="zafarrizvi" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
