@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zafar Rizvi</h1>
 <h3 align="center">Software Engineer with a passion for open source.</h3>
+<h3 align="center">Front-end developer with a knack for design.</h3>
+<h3 align="center">Full-stack developer with a thirst for knowledge.</h3>
+<h3 align="center">Web & Mobile App developer with a passion for building beautiful and functional Apps.</h3>
+<h3 align="center">Cybersecurity engineer with a mission to keep the world safe.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zafarrizvi&label=Profile%20views&color=0e75b6&style=flat" alt="zafarrizvi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zafarrizvi" alt="zafarrizvi" /></a> </p>
 
 - 🔭 I’m currently working on [Web Development](https://sub.commo.fi/)
 
