@@ -4,8 +4,8 @@
 <h3>Full-stack developer with a thirst for knowledge.</h3>
 <h3>Web & Mobile App developer with a passion for building beautiful and functional Apps.</h3>
 <h3>Cybersecurity engineer with a mission to keep the world safe.</h3>
-<p>.</p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zafarrizvi&label=Profile%20views&color=0e75b6&style=flat" alt="zafarrizvi" /> </p>
 
 - 🔭 I’m currently working on [Commo Webapp](https://sub.commo.fi/)
 
@@ -13,10 +13,12 @@
 
 - 👯 I have my [Portfolio](https://smzr.dev/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zafarrizvi&label=Profile%20views&color=0e75b6&style=flat" alt="zafarrizvi" /> </p>
-<h3 align="center">Connect with me:</h3>
 - 💬 How to reach me **+92 333 1930807**
+  
 - 📫 Mailing Address **smzafar.rizwi@gmail.com**
+
+  
+<h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://linkedin.com/in/syed-muhammad-zafar-rizvi-3a94a1124" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-muhammad-zafar-rizvi-3a94a1124" height="30" width="40" />
