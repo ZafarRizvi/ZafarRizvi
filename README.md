@@ -22,16 +22,16 @@
 <p align="center">
     <a href="https://linkedin.com/in/syed-muhammad-zafar-rizvi-3a94a1124" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-muhammad-zafar-rizvi-3a94a1124" height="30" width="40" />
-    </a>&ensp;
+    </a>&ensp;&ensp;
     <a href="https://stackoverflow.com/users/12672819" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12672819" height="30" width="40" />
-    </a>&ensp;
+    </a>&ensp;&ensp;
     <a href="https://www.hackerrank.com/smzafar_rizwi" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="smzafar_rizwi" height="30" width="40" />
-    </a>&ensp;
+    </a>&ensp;&ensp;
     <a href="https://www.leetcode.com/user6161i" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user6161i" height="30" width="40" />
-    </a>&ensp;
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
