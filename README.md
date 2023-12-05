@@ -35,7 +35,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div  style="display: flex; justify-content: space-between;">
+<div  style="display: flex; items:space-between;">
 <!--     <a href="https://dart.dev" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
     </a> -->
