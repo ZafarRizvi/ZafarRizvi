@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👯 I have my [Portfolio](https://smzr.dev/)
+- 👯 I have my [Portfolio](https://zafarrizvi.vercel.app/)
 
 - 💬 How to reach me **+92 333 1930807**
   
