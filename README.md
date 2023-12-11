@@ -13,7 +13,7 @@
 
 - 👯 I have my [Portfolio](https://zafarrizvi.vercel.app/)
 
-- 💬 How to reach me **+92 333 1930807**
+- 💬 How to reach me **+92 333 1930807** (WhatsApp)
   
 - 📫 Mailing Address **smzafar.rizwi@gmail.com**
 
