@@ -1,8 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">, I'm Zafar Rizvi</h1>
 <h3>Software Engineer with a passion for open source.</h3>
 <h3>Front-end developer with a knack for design.</h3>
-<h3>Full-stack developer with a thirst for knowledge.</h3>
-<h3>Web & Mobile App developer with a passion for building beautiful functional Apps.</h3>
+<h3>Full stack Web & Mobile App developer with a passion for building beautiful functional Apps.</h3>
 <h3>Cybersecurity engineer with a mission to keep the world safe.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zafarrizvi&label=Profile%20views&color=0e75b6&style=flat" alt="zafarrizvi" /> </p>
